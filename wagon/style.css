@@ -1,0 +1,49 @@
+body{
+	background-color: #C37F01;
+	color: #9FC5B4;
+   font-family: courrier;
+   font-size: x-large;
+   justify-content: center;
+}
+    
+h1{
+   color: yellow;
+   font-size: 90px;
+
+
+
+}
+
+    p{
+
+    	
+
+
+
+}
+
+
+       img {  
+           border-top:4px solid black ;
+           border-left: 4px solid black;
+           border-right:4px solid black ;
+           border-bottom: 4px solid black  ;
+              
+           width: 190px;
+           border-radius: 30%;
+
+           margin-left: 240px;
+
+}
+
+div {width: 700px;
+    margin: 40px auto;
+    
+   
+    }
+       
+.div{box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+   padding: 40px;
+     
+     
+    }
